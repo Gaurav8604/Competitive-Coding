@@ -11,19 +11,19 @@ using namespace std;
 class Solution{
     public:
     int removals(vector<int>& arr, int k){
-        int s=0,end=0;
+        int s=0,e=0;
         sort(arr.begin(),arr.end());
-        int len=-1;
-        while(end<arr.size())
+        int l=-1;
+        while(e<arr.size())
         {
-            if(arr[end]-arr[start]<=k)
+            if(arr[e]-arr[s]<=k)
             {
-                len=max(len,end-start+1);
-                end++;
+                l=max(l,e-s+1);
+                e++;
             }
-            else start++;
+            else s++;
         }
-        return arr.size()-len;
+        return arr.size()-l;
     }
 };
 
