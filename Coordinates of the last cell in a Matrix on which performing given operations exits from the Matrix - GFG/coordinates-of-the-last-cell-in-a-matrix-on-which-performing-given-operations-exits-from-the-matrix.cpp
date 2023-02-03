@@ -11,7 +11,7 @@ using namespace std;
 class Solution{
     public:
     pair<int,int> endPoints(vector<vector<int>> matrix){
-        pair<int,int> p,temp;
+        pair<int,int> temp;
         int i=0,j=0;
         string direction="right";
         while(i<matrix.size() && j<matrix[0].size() && i>=0 && j>=0)
