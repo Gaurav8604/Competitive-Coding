@@ -23,10 +23,8 @@ public:
             temp="";
             for(int j=s1[i].length()-1;j>=0;j--)
             {
-                temp+=s1[i][j];
-                reverse(temp.begin(),temp.end());
+                temp=s1[i][j]+temp;
                 mp[temp]++;
-                reverse(temp.begin(),temp.end());
             }
         }
         int count=0;
