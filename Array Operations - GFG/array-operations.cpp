@@ -21,20 +21,14 @@ class Solution {
                 temp.push_back(arr[i]);
             else
             {
-                ans.push_back(temp);
+                if(temp.size()!=0)
+                    ans.push_back(temp);
                 temp.clear();
             }
         }
         if(temp.size()!=0) 
             ans.push_back(temp);
-        
-        int count=0;
-        for(int i=0;i<ans.size();i++)
-        {
-            if(ans[i].size()!=0)
-                count++;
-        }
-        return count;
+        return ans.size();
     }
 };
 
