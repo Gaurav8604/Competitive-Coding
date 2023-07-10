@@ -6,17 +6,17 @@ using namespace std;
 //User function Template for C++
 class Solution
 {
+    vector<long long> ans;
+    void recurse(long long n,long long i,long long sum)
+    {
+        if(sum>n) return;
+        ans.push_back(sum);
+        recurse(n,i+1,sum*i);
+    }
 public:
     vector<long long> factorialNumbers(long long n)
     {
-        vector<long long> ans;
-        long long i=1,sum=1;
-        while(sum<=n)
-        {
-            ans.push_back(sum);
-            i++;
-            sum*=i;
-        }
+        recurse(n,2,1);
         return ans;
     }
 };
