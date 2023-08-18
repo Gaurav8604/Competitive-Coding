@@ -13,19 +13,27 @@ class Solution{
     public:
     vector<int> leaders(int arr[], int n){
         vector<int> ans;
-        for(int i=0;i<n;i++)
+        // for(int i=0;i<n;i++)
+        // {
+        //     int flag=0;
+        //     for(int j=i+1;j<n;j++)
+        //     {
+        //         if(arr[i]<arr[j])
+        //         {
+        //             flag=1;
+        //             break;
+        //         }
+        //     }
+        //     if(flag!=1) ans.push_back(arr[i]);
+        // }
+        int temp=-1;
+        for(int i=n-1;i>=0;i--)
         {
-            int flag=0;
-            for(int j=i+1;j<n;j++)
-            {
-                if(arr[i]<arr[j])
-                {
-                    flag=1;
-                    break;
-                }
-            }
-            if(flag!=1) ans.push_back(arr[i]);
+            temp=max(temp,arr[i]);
+            if(arr[i]==temp)
+            ans.push_back(arr[i]);
         }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
