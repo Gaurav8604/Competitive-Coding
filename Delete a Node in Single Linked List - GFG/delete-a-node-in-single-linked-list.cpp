@@ -90,15 +90,17 @@ Node* deleteNode(Node *head,int x)
     Node *prev=head;
     if(x==1){
         head=temp;
-        return head;
+        free(prev);
     }
-    if(x>=2) x-=2;
-    while(x--){
-        temp=temp->next;
-        prev=prev->next;
+    else{
+        x-=2;
+        while(x--){
+            temp=temp->next;
+            prev=prev->next;
+        }
+        prev->next=temp->next;
+        temp->next=NULL;
+        free(temp);
     }
-    prev->next=temp->next;
-    temp->next=NULL;
-    free(temp);
     return head;
 }
