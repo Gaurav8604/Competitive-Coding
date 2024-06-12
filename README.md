@@ -25,6 +25,7 @@ Competitive Coding Questions and solved answers.
 | ------- |
 | [0009-palindrome-number](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Gaurav8604/Competitive-Coding/tree/master/1013-fibonacci-number) |
 # Binary Search
 |  |
 | ------- |
@@ -33,3 +34,15 @@ Competitive Coding Questions and solved answers.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0268-missing-number) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gaurav8604/Competitive-Coding/tree/master/1013-fibonacci-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gaurav8604/Competitive-Coding/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gaurav8604/Competitive-Coding/tree/master/1013-fibonacci-number) |
