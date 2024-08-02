@@ -63,12 +63,14 @@ Competitive Coding Questions and solved answers.
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0383-ransom-note) |
 | [0742-to-lower-case](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0742-to-lower-case) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Competitive Coding Questions and solved answers.
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
