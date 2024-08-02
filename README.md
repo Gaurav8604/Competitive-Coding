@@ -53,6 +53,7 @@ Competitive Coding Questions and solved answers.
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0349-intersection-of-two-arrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gaurav8604/Competitive-Coding/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sliding Window
 |  |
@@ -62,4 +63,20 @@ Competitive Coding Questions and solved answers.
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0742-to-lower-case) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
