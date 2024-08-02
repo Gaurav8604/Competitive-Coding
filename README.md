@@ -58,4 +58,8 @@ Competitive Coding Questions and solved answers.
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gaurav8604/Competitive-Coding/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/Gaurav8604/Competitive-Coding/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
