@@ -48,3 +48,14 @@ Competitive Coding Questions and solved answers.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Gaurav8604/Competitive-Coding/tree/master/1013-fibonacci-number) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gaurav8604/Competitive-Coding/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gaurav8604/Competitive-Coding/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+<!---LeetCode Topics End-->
